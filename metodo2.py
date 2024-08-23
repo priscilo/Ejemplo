@@ -1,6 +1,6 @@
 1 #Función sin parametro
-2  def saludoBienvenida():
-3   print("|BIENVENIDO")
+2   def saludoBienvenida():
+3     print("BIENVENIDO" )
 4 #Función con parametro
 5 def saludoNombre(name):
 6    print("Hola!", name)
@@ -21,6 +21,60 @@
 22         resultado = a+b
 23           return resultado
 24
-25        print(suma(2,2))
+25     print(suma(2,2))
         
         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
