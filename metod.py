@@ -1,23 +1,5 @@
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def saludar(nombre):
     """Esta función imprime un saludo perzsonalizado."""
     print("Hola,", nombre, ("!"))
